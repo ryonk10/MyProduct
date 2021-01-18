@@ -1,0 +1,15 @@
+shootingゲームの共有ファイルURLです。
+https://1drv.ms/u/s!As3QToB48FtkgbZONZfDYqs4oMYcvQ?e=aXwMbm
+
+お手数ですが、ダウンロードしたフォルダーの一つ下の階層の「shootingFolder」フォルダーが一番上の階層になるようにフォルダーを移動してください。
+また、実行は「shootingアプリ」を起動すると始まります。
+
+【Before】　　　　　　　　　　　　　　　　　　　　　　　　　　【after】　
+shootingFolderZip - shootingFolder     - data                  shootingFloder     - data
+                                       - java                                     - java
+                                       - lib　　　　　　　→                      - lib 
+                                       - source                                   - source
+                                       - shootingアプリ                           - shootingアプリ
+
+                                        
+　　　　　　　　　　
